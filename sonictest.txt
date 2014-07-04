@@ -1,0 +1,2 @@
+testing git from my sonic.net host
+if this were not a test, I would not type this.
