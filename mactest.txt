@@ -1,0 +1,2 @@
+testing git on my mac
+if this were not a test, I would not type this.
